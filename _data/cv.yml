@@ -1,0 +1,102 @@
+url: http://karakaz.github.io/cv/
+projectUrl: karakaz.github.io/
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: Daniel Karakka
+  depiction: headshot.png
+  profession: Backend Java Developer
+  location: Oslo, Norway
+  citizenship: Norwegian
+  email: daniel.<span id="dummy">REMOVE</span>karakka@<span id="dummy">REMOVE</span>gmail<span id="dummy">REMOVE</span>.com
+  site: karakaz.github.io
+  phone:
+  github: /karakaz
+  stackoverflow:
+
+career:
+ - position: Backend Developer
+   company: <a href="https://www.sportradar.com/">Sportradar AS</a>
+   location: Oslo, Norway
+   dates: March 2015 - current
+   summary: Key backend developer for Sportradar's <a href="https://integrity.sportradar.com/">Fraud Detection System</a>
+   accomplishments:
+    - accomplishment: Restructured the biggest components of our fraud detection system to be scalable and extendable by use of parallellism and clever use of design patterns.
+    - accomplishment: Lead developer of our new automapper system which is able to map virtually all of our crawler's matches to our own.
+    - accomplishment: Worked in Sportradar's London office for three months (March - June 2017)
+    - accomplishment: Contact person for UEFA
+ - position: Salesclerk, part time
+   company: <a href="https://en.wikipedia.org/wiki/Rimi_(Norway)">Rimi</a>
+   location: Bærum, Norway
+   dates: December 2008 – September 2012
+   summary: My first job, worked on and off for four years
+   accomplishments:
+    - accomplishment: Middle management
+    - accomplishment: Training new employees
+
+technicalSkills:
+  list:
+    - tr: "Short summary of my person: Creative, passionate, open minded, thorough"
+    - tr: "I take pride in my work and strive for solid and scalable systems"
+    - tr: "Java framework experience: Maven, Gradle, Spring, Dropwizard, Guava, OpenNLP, Weka, LibGDX, Mysql, Jackson, JCommander, JavaFX, Dagger2"
+    - tr: "Technology experience: Redis, REST, some Machine Learning, Natural Language Processing, Game Design and Game Development"
+    - tr: "Scrum, Agile"
+  languages:
+   - name: Java
+     level: 100
+   - name: MySQL
+     level: 85
+   - name: Lua
+     level: 80
+   - name: Python
+     level: 70
+  systems:
+   - name: Git
+     level: 85
+   - name: Gitlab
+     level: 75
+   - name: Jira
+     level: 75
+   - name: Confluence
+     level: 75
+  other:
+   - name: English
+     level: 95
+   - name: Norwegian
+     level: 100
+   - name: Linux
+     level: 85
+   - name: Windows
+     level: 95
+
+sideProjects:
+  - name: sequence-examiner
+    description: System that tries to find the mathematical formula of a sequence of numbers.
+    link: https://github.com/karakaz/sequence-examiner
+    type: github
+    langs: Java
+
+  - name: map-gen
+    description: A engine to dynamically create random maps from parameters for games like Risk
+    link: https://github.com/karakaz/map-gen
+    type: github
+    langs: Java
+
+  - name: railway-painter
+    description: Mod for the popular game Factorio. <a href="https://mods.factorio.com/mods/Karakaz/railway-painter">The mod</a> is about automating the process of coloring train stations, trains and wagons depending on what they are used for.
+    link: https://github.com/karakaz/railway-painter
+    type: github
+    langs: Lua
+
+  - name: lazy-town
+    description: Addon for the wildly popular game World of Warcraft. The addon was developed in 2014 for the expansion The Burning Crusade. Now some consider it one of the most useful addons for this expansion.
+    link: https://github.com/karakaz/lazy-town
+    type: github
+    langs: Lua
+
+education:
+  - name: University of Oslo
+    degree: 'Bachelor in Informatics: Programming and Networks'
+    location: Oslo, Norway
+    dates: 2011 – 2014
+    link: http://www.uio.no/studier/program/inf-pro/
