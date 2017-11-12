@@ -77,7 +77,7 @@ sideProjects:
     langs: Java
 
   - name: map-gen
-    description: A engine to dynamically create random maps from parameters for games like Risk
+    description: An engine to dynamically create random maps from parameters for games like Risk
     link: https://github.com/karakaz/map-gen
     type: github
     langs: Java
