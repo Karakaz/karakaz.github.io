@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Karakaz
 tagline:          "Home of Karakaz"
 description:      "Home of my experiments"
-url:              https://karakaz.github.io/
+url:              https://karakaz.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Daniel Karakka'
-  url:            https://karakaz.github.io/
+  url:            https://karakaz.io/
 
 paginate:         5
 # paginate_path:    '/page:num'

@@ -1,5 +1,5 @@
-url: http://karakaz.github.io/cv/
-projectUrl: karakaz.github.io/
+url: http://karakaz.github.io
+projectUrl: karakaz.github.io
 
 # leave blank fields which you don't want to fill/be displayed
 person:
@@ -9,10 +9,11 @@ person:
   location: Oslo, Norway
   citizenship: Norwegian
   email: daniel.<span id="dummy">REMOVE</span>karakka@<span id="dummy">REMOVE</span>gmail<span id="dummy">REMOVE</span>.com
-  site: karakaz.github.io
+  site: karakaz.io
   phone:
   github: /karakaz
   stackoverflow:
+  linkedin: /karakaz
 
 career:
  - position: Backend Developer
