@@ -1,7 +1,7 @@
 ---
 ---
 body{
-  background-color: #333 !important;
+  background-color: #444 !important;
   background-image: url('https://www.transparenttextures.com/patterns/random-grey-variations.png');
 }
 
@@ -65,6 +65,10 @@ h1, h2{
 }
 
 @media print {
+  body {
+    background-color: #FFF !important;
+  }
+
   .section {
     page-break-inside: avoid;
   }

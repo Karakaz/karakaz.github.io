@@ -4,7 +4,7 @@ projectUrl: karakaz.github.io
 # leave blank fields which you don't want to fill/be displayed
 person:
   name: Daniel Karakka
-  depiction: headshot.png
+  depiction: headshot_round_2.png
   profession: Backend Java Developer
   location: Oslo, Norway
   citizenship: Norwegian
@@ -37,9 +37,9 @@ career:
 
 technicalSkills:
   list:
-    - tr: "Short summary of my person: Creative, passionate, open minded, thorough"
+    - tr: "Short summary of myself: Creative, passionate, open minded, thorough"
     - tr: "I take pride in my work and strive for solid and scalable systems"
-    - tr: "Java framework experience: Maven, Gradle, Spring, Dropwizard, Guava, OpenNLP, Weka, LibGDX, Mysql, Jackson, JCommander, JavaFX, Dagger2"
+    - tr: "Java framework experience: Maven, Gradle, Spring, Dagger2, Dropwizard, Guava, OpenNLP, LibGDX, Mysql, Jackson, JCommander, JavaFX"
     - tr: "Technology experience: Redis, REST, some Machine Learning, Natural Language Processing, Game Design and Game Development"
     - tr: "Scrum, Agile"
   languages:
@@ -90,7 +90,7 @@ sideProjects:
     langs: Lua
 
   - name: lazy-town
-    description: Addon for the wildly popular game World of Warcraft. The addon was developed in 2014 for the expansion The Burning Crusade. Now some consider it one of the most useful addons for this expansion.
+    description: Addon for a wildly popular game World of Warcraft. The addon was developed in 2014 for the expansion The Burning Crusade. Now some consider it one of the most useful addons for this expansion.
     link: https://github.com/karakaz/lazy-town
     type: github
     langs: Lua

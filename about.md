@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-Ever since I was a little cub, I've been interested in technology. It all started when I got my first gaming console Nintendo 64 in 1997 and since then I've been a big fan of games. Shortly thereafter I got my first PC, a humble thing running Windows 95. 
+Ever since I was little, I've been interested in technology. It all started when I got my first gaming console Nintendo 64 in 1997 and since then I've been a big fan of games. Shortly thereafter I got my first PC, a humble thing running Windows 95. 
 
 Over the years I spent more and more time in front of the computer and finally found a new creative passion in programming. Back in the day, when you bought a computer magazine you got a little CD with demo programs as well as the newest version of DirectX. This was how I got updates because we didn't have internett access.
 
