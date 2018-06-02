@@ -22,10 +22,10 @@ career:
    dates: March 2015 - current
    summary: Key backend developer for Sportradar's <a href="https://integrity.sportradar.com/">Fraud Detection System</a>
    accomplishments:
-    - accomplishment: Restructured the biggest components of our fraud detection system to be scalable and extendable by use of parallellism and clever use of design patterns.
-    - accomplishment: Lead developer of our new automapper system which is able to map virtually all of our crawler's matches to our own.
-    - accomplishment: Worked in Sportradar's London office for three months (March - June 2017)
-    - accomplishment: Contact person for UEFA
+    - accomplishment: Part of a select few to rewrite our odds crawling pipeline using state of the art technology including gRPC, Kafka, Prometheus and K8s
+    - accomplishment: Rewrote the main backend components of Sportradar's Fraud Detection System which monitors millions of odds for suspicious activity every day
+    - accomplishment: Developed a new mapping system using Natural Language Processing which used our historical data to find logical new mappings from bookmaker's data to our own
+    - accomplishment: Worked in Sportradar's London office for three months
  - position: Salesclerk, part time
    company: <a href="https://en.wikipedia.org/wiki/Rimi_(Norway)">Rimi</a>
    location: Bærum, Norway
@@ -39,8 +39,8 @@ technicalSkills:
   list:
     - tr: "Short summary of myself: Creative, passionate, open minded, thorough"
     - tr: "I take pride in my work and strive for solid and scalable systems"
-    - tr: "Java framework experience: Maven, Gradle, Spring, Dagger2, Dropwizard, Guava, OpenNLP, LibGDX, Mysql, Jackson, JCommander, JavaFX"
-    - tr: "Technology experience: Redis, REST, some Machine Learning, Natural Language Processing, Game Design and Game Development"
+    - tr: "Java framework experience: Maven, Gradle, Spring, Kafka, Dagger2, Dropwizard, Guava, OpenNLP, LibGDX, Jackson, JCommander, JavaFX"
+    - tr: "Technology experience: Redis, gRPC, REST, MySQL, some Machine Learning, Natural Language Processing, Game Design and Game Development"
     - tr: "Scrum, Agile"
   languages:
    - name: Java
