@@ -20,7 +20,7 @@ career:
    company: <a href="https://www.sportradar.com/">Sportradar AS</a>
    location: Oslo, Norway
    dates: March 2015 - current
-   summary: Key backend developer for Sportradar's <a href="https://integrity.sportradar.com/">Fraud Detection System</a>
+   summary: Key backend developer for Sportradar's <a href="https://integrity.sportradar.com/products-and-services/monitoring-and-detection/">Fraud Detection System</a>
    accomplishments:
     - accomplishment: Part of a select few to rewrite our odds crawling pipeline using state of the art technology including gRPC, Kafka, Prometheus and K8s
     - accomplishment: Rewrote the main backend components of Sportradar's Fraud Detection System which monitors millions of odds for suspicious activity every day
